@@ -1,4 +1,4 @@
-## 🚀 Robotics Projects
+## 🚀 Mini Robotic Projects
 
 ---
 
