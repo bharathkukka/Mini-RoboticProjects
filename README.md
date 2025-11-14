@@ -121,6 +121,6 @@
   * Effective use of **digital/analog microcontroller pins** for multiple inputs and outputs.
 
 * **✅ Outcome:**
-  Achieved a **semi-autonomous mobile manipulator** that performs real-world tasks, enhancing knowledge of **embedded systems, robotic locomotion, and human-robot interaction**.
+  Achieved a **semi-autonomous mobile manipulator** that performs real-world tasks, enhancing knowledge of **embedded systems, robotic locomotion, and human-robot interaction**
 
 ---
